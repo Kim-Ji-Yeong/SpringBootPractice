@@ -1,4 +1,4 @@
-package com.springboot.hospital.SpringBootPrac.dto;
+package com.springboot.hospital.SpringBootPrac.domain.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

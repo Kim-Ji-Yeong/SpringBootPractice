@@ -1,6 +1,6 @@
 package com.springboot.hospital.SpringBootPrac.controller;
 
-import com.springboot.hello.domain.dto.MemberDto;
+import com.springboot.hospital.SpringBootPrac.dao.MemberDto;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;

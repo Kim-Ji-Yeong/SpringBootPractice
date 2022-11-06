@@ -1,7 +1,7 @@
 package com.springboot.hospital.SpringBootPrac.controller;
 
-import com.springboot.hello.dao.UserDao;
-import com.springboot.hello.domain.User;
+import com.springboot.hospital.SpringBootPrac.dao.UserDao;
+import com.springboot.hospital.SpringBootPrac.domain.User;
 import org.springframework.web.bind.annotation.*;
 
 

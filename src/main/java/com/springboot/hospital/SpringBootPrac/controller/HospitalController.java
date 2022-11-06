@@ -1,7 +1,7 @@
 package com.springboot.hospital.SpringBootPrac.controller;
 
-import com.springboot.hello.dao.HospitalDao;
-import com.springboot.hello.domain.dto.Hospital;
+import com.springboot.hospital.SpringBootPrac.dao.HospitalDao;
+import com.springboot.hospital.SpringBootPrac.domain.Hospital;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

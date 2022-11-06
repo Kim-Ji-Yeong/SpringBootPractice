@@ -1,4 +1,4 @@
-package com.springboot.hospital.SpringBootPrac.dto;
+package com.springboot.hospital.SpringBootPrac.domain.dto;
 
 public class MemberDto {
     private String name;
